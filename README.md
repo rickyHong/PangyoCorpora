@@ -2,6 +2,8 @@
 
 This repository is dedicated to training a multi-lingual Language Model (LLM) that can understand and generate text in multiple languages.
 
+https://velog.io/@codingchild/Research-%EC%BD%94%EB%93%9C-%EC%8A%A4%EC%9C%84%EC%B9%AD-%EC%BD%94%ED%8D%BC%EC%8A%A4-%EA%B8%B0%EB%B0%98-%EB%8B%A4%EA%B5%AD%EC%96%B4-LLM%EC%9D%98-%EC%A7%80%EC%8B%9D-%EC%A0%84%EC%9D%B4-%EC%97%B0%EA%B5%AC-%EC%A0%95%EB%A6%AC
+
 ## Overview
 
 **Pangyo Corpora** is a valuable resource for anyone looking to enhance their multi-language learning capabilities. This repository provides a diverse and comprehensive dataset curated specifically for the purpose of training Language Models (LLMs) to handle code-switching and multi-language contexts effectively.
